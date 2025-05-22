@@ -100,6 +100,7 @@ StyleCopReport.xml
 *.csproj
 AssemblyInfo.cs
 App.config
+*.sln
 
 # Chutzpah Test files
 _Chutzpah*
